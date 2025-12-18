@@ -1,5 +1,5 @@
-# TMUber
-A Replica of how the Uber System Functions.
+# Recipe Generation App
+
 INSTRUCTION FOR SET UP
 
 1. Create a virtual environment
@@ -24,4 +24,5 @@ python .\test_*.py
 
 ***
 If for some reason the app Says could not find recipe online or locally.
+
 Uncomment the other API KEY in line 4 of scraper.py
