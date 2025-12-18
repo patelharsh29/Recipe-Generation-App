@@ -1,0 +1,46 @@
+[
+  {
+    "dish_name": "Poutine",
+    "ingredients": [
+      {"name": "Potato (for fries)", "quantity": "500 g"},
+      {"name": "Cheese curds", "quantity": "150 g"},
+      {"name": "Beef gravy", "quantity": "300 ml"},
+      {"name": "Salt", "quantity": "to taste"}
+    ],
+    "steps": [
+      "Cut potatoes into fries and rinse.",
+      "Fry or bake until crispy.",
+      "Heat gravy until hot.",
+      "Assemble fries on plate, sprinkle cheese curds, pour hot gravy over."
+    ]
+  },
+  {
+    "dish_name": "Anchovy Caesar Salad",
+    "ingredients": [
+      {"name": "Romaine lettuce", "quantity": "1 head"},
+      {"name": "Anchovy fillets", "quantity": "6"},
+      {"name": "Parmesan cheese", "quantity": "50 g"},
+      {"name": "Croutons", "quantity": "100 g"},
+      {"name": "Caesar dressing", "quantity": "100 ml"}
+    ],
+    "steps": [
+      "Wash and chop lettuce.",
+      "Toss lettuce with Caesar dressing.",
+      "Top with anchovy fillets, parmesan, and croutons."
+    ]
+  },
+  {
+    "dish_name": "Herb Caesar (without anchovy)",
+    "ingredients": [
+      {"name": "Romaine lettuce", "quantity": "1 head"},
+      {"name": "Parmesan cheese", "quantity": "50 g"},
+      {"name": "Croutons", "quantity": "100 g"},
+      {"name": "Herb dressing (anchovy-free)", "quantity": "100 ml"}
+    ],
+    "steps": [
+      "Wash and chop lettuce.",
+      "Toss lettuce with herb dressing.",
+      "Top with parmesan and croutons."
+    ]
+  }
+]

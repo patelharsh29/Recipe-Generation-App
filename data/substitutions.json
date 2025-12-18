@@ -1,0 +1,22 @@
+{
+  "beef gravy": {
+    "replacement": "mushroom umami gravy",
+    "reason": "Mushroom gravy provides a similar savory umami flavor without meat.",
+    "allowed_diets": ["Vegetarian", "Vegan"]
+  },
+  "anchovy fillets": {
+    "replacement": "capers or miso paste (for umami)",
+    "reason": "Capers or a small amount of miso can provide savory flavor without fish.",
+    "allowed_diets": ["Vegetarian"]
+  },
+  "parmesan cheese": {
+    "replacement": "vegetarian parmesan (microbial rennet) or nutritional yeast",
+    "reason": "Vegetarian-friendly cheeses replace animal rennet.",
+    "allowed_diets": ["Vegetarian"]
+  },
+  "caesar dressing": {
+    "replacement": "anchovy-free herb dressing",
+    "reason": "Use a dressing that omits anchovies to remain vegetarian.",
+    "allowed_diets": ["Vegetarian", "Vegan"]
+  }
+}
