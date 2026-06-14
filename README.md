@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # Recipe Generation App
 
+=======
+# Recipe Generation App
+
+>>>>>>> b09c04c (test)
 INSTRUCTION FOR SET UP
 
 1. Create a virtual environment
